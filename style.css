@@ -12,13 +12,13 @@
 }
 
 .title {
-    color: yellowgreen;
+    color: #d82760;
     font-family: 'Courier New', Courier, monospace;
     font-size: 6vh;
 }
 
-.text {
-    color: whitesmoke;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 3vh;
+.description {
+    color: #27d89f;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 7vh;
 }
