@@ -22,3 +22,12 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 7vh;
 }
+
+@media (max-width: 300px) {
+    .title {
+        font-size: 5vh;
+    }
+    .description {
+        font-size: 7vh;
+    }
+}
